@@ -1,2 +1,1 @@
-# ArAura
- 
+# camera_kit_demo
