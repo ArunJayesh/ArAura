@@ -42,7 +42,7 @@ body {
     font-size: 1.5em;
   }
 
-  .flamingo-logo {
+  /* .flamingo-logo {
     width: 100%;
     position: absolute;
     top: 100px;
@@ -66,4 +66,8 @@ body {
 
   .poweredbysnap-logo > img {
     width: 200px;
+  } */
+  .snap-watermark, .snap-overlay { 
+    display: none !important; 
+    visibility: hidden !important; 
   }
